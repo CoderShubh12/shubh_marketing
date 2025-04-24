@@ -56,23 +56,23 @@ export default function Home() {
           className="text-4xl font-extrabold text-indigo-600 mb-6 tracking-tight"
           variants={headingVariants}
         >
-          We're Launching Soon!
+          We&apos;re Launching Soon!
         </motion.h1>
         <motion.p
           className="mt-4 text-lg text-gray-700 leading-relaxed"
           variants={paragraphVariants}
         >
-          Thank you for your interest in our digital marketing agency. We're
-          working hard behind the scenes to bring you a brand new website
-          showcasing our expert services and proven strategies.
+          Thank you for your interest in our digital marketing agency.
+          We&apos;re working hard behind the scenes to bring you a brand new
+          website showcasing our expert services and proven strategies.
         </motion.p>
         <motion.p
           className="mt-4 text-lg text-gray-700 leading-relaxed"
           variants={paragraphVariants}
         >
-          We specialize in helping businesses like yours achieve significant
-          growth through data-driven marketing, innovative campaigns, and a
-          dedicated team of professionals.
+          We specialize in helping businesses like you&apos;re achieve
+          significant growth through data-driven marketing, innovative
+          campaigns, and a dedicated team of professionals.
         </motion.p>
         <motion.p
           className="mt-6 text-xl font-semibold text-gray-800"
